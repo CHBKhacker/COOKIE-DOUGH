@@ -1,4 +1,4 @@
-**COOKIE DOUGH**
+# COOKIE DOUGH
 
 - prevents securly, securly classroom, goguardian, and hapara from working, may work on other extensions
 - can be used as a bookmarklet or as a custom search engine (chrome://settings/searchEngines)
